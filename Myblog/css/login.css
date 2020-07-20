@@ -1,0 +1,12 @@
+body{background-color:#eee;margin:0;padding:0;}
+.reg{width:800px;margin:50px auto;padding:20px;border:1px solid #ccc;background-color:#fff;}
+.reg .title{text-align:center;padding-bottom:10px;}
+.reg th{font-weight:normal;text-align:right;}
+.reg input{width:180px;border:1px solid #ccc;height:20px;padding-left:4px;}
+.reg .td-auto-login{font-size:14px;text-align:left;padding-left:90px;padding-top:5px;}
+.reg .checkbox{width:auto;vertical-align:middle;}
+.reg label{vertical-align:middle;}
+.reg .button{background-color:#0099ff;border:1px solid #0099ff;color:#fff;width:80px;height:25px;margin:0 5px;cursor:pointer;}
+.reg .td-btn{text-align:center;padding-top:5px;}
+.error-box{width:378px;margin:15px;padding:10px;background:#FFF0F2;border:1px dotted #ff0099;font-size:14px;color:#ff0000;}
+.error-box ul{margin:10px;padding-left:25px;}
